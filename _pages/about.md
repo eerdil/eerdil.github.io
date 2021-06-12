@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Ertunc Erdil"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-About Me
-======
 
 I am working as a postdoctoral researcher in [Biomedical Image Computing (BMIC)](https://bmic.ee.ethz.ch/) group in the [Computer Vision Lab. (CVL)](https://vision.ee.ethz.ch/), ETH Zurich, Switzerland.
 
