@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+About Me
+======
 
 I working as a postdoctoral researcher in [Biomedical Image Computing (BMIC)](https://bmic.ee.ethz.ch/) and [Computer Vision Lab. (CVL)](https://vision.ee.ethz.ch/), ETH Zurich, Switzerland.
 
