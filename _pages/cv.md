@@ -18,10 +18,6 @@ Education
 Work experience
 ======
 * June 2019 - Now: Postdoctoral researcher
-  * Biomedical Image Computing
-  * <ul>{% Computer Vision Lab. (CVL) %}
-    {% https://vision.ee.ethz.ch/ %}
-  {% endfor %}</ul>
   * Supervisor: Prof. Ender Konukoglu
 
 * Fall 2015: Research Assistant
