@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am working as a postdoctoral researcher in [Biomedical Image Computing (BMIC)](https://bmic.ee.ethz.ch/) group in the [Computer Vision Lab. (CVL)](https://vision.ee.ethz.ch/), ETH Zurich, Switzerland.
+I am working as a postdoctoral researcher with [Prof. Ender Konukoglu](https://people.ee.ethz.ch/~kender/) in [Biomedical Image Computing (BMIC)](https://bmic.ee.ethz.ch/) group in the [Computer Vision Lab. (CVL)](https://vision.ee.ethz.ch/), ETH Zurich, Switzerland.
 
 **Research Interests**
 
