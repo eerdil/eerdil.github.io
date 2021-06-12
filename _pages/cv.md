@@ -11,16 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science and Engineering, Sabanci University, Turkey, 2012 - 2017
+* M.S. in Computer Engineering, Bahcesehir University, Turkey, 2009 - 2011
+* B.S. in Mathematics, Ege University, Turkey, 2004 - 2009
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2019 - Now: Postdoctoral researcher
+  * Biomedical Image Computing
+  * <ul>{% Computer Vision Lab. (CVL) %}
+    {% https://vision.ee.ethz.ch/ %}
+  {% endfor %}</ul>
+  * Supervisor: Prof. Ender Konukoglu
 
 * Fall 2015: Research Assistant
   * Github University
