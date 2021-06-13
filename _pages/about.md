@@ -12,7 +12,8 @@ I am working as a postdoctoral researcher with [Prof. Ender Konukoglu](https://p
 
 My research is focused around the general theme of developing Machine Learning algorithms with applications to Biomedical Image Analysis and Computer Vision. Lately, I am particularly interested in learning from limited annotations and making Machine Learning models trustworthy to be able to use them clinical settings. See [research]() page for more details.
 
-**Short Bio**
+Short Bio
+======
 
 I joined ETH Zurich in June 2019. Prior to this, I was working as a Senior Research Engineer in [ARM Ltd.](https://www.arm.com/) where I was developing hardware-efficient image processing methods for improving image quality in mobile displays. In 2017, I obtained my Ph.D. degree from Computer Science and Engineering department, [Sabanci University](https://sabanciuniv.edu), Turkey under the supervision of [Prof. Mujdat Cetin](http://www.hajim.rochester.edu/ece/people/faculty/cetin_mujdat/). During my Ph.D., I worked on developing Bayesian methods for object segmentation by exploiting nonparametric shape priors.
 
