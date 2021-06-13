@@ -10,7 +10,6 @@ redirect_from:
 
 I am working as a postdoctoral researcher with [Prof. Ender Konukoglu](https://people.ee.ethz.ch/~kender/) in [Biomedical Image Computing (BMIC)](https://bmic.ee.ethz.ch/) group in the [Computer Vision Lab. (CVL)](https://vision.ee.ethz.ch/), ETH Zurich, Switzerland.
 
-**Research Interests**
 My research is focused around the general theme of developing Machine Learning algorithms with applications to Biomedical Image Analysis and Computer Vision. Lately, I am particularly interested in learning from limited annotations and making Machine Learning models trustworthy to be able to use them clinical settings. See [research]() page for more details.
 
 **Short Bio**
